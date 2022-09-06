@@ -1,0 +1,33 @@
+.svg{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    z-index: 1000;  
+}
+
+.svg .circle{
+    width: 100%;
+    height: 100%;
+    fill: none;
+    stroke: url(#GradientColor);
+    stroke-width: 15;
+    stroke-linecap: round;
+    stroke-dasharray: 436;
+    transform: translate(30px, 30px);
+    
+}
+
+.box{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    margin-left: 210px;
+}
+
+.text{
+    transform: translate(0, -80px);
+}
+.percentage{
+    transform: translate(0, -130px);
+}
+
