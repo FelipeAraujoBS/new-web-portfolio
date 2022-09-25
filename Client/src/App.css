@@ -488,11 +488,24 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   right: 0;
   z-index: -4;
 }
+/************ Education Css ************/
+.education{
+   background: linear-gradient(90.21deg, #4A2FBD -5.91%, #AA367C 111.58%);
+   padding: 60px 0 60px 0;
+}
 
-/************ Projects Css ************/
+.education h3, h5, p{
+  color: white;
+}
+
+.vertical-timeline-element-content{
+  background: #151515;
+}
+
+/************ Contact Css ************/
 .contact {
   background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
-  padding: 60px 0 200px 0;
+  padding: 60px 0 100px 0;
 }
 .contact img {
   width: 92%;
