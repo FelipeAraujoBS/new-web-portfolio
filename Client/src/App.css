@@ -501,6 +501,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .vertical-timeline-element-content{
   background: #151515;
 }
+.vertical-timeline-element-subtitle{
+  color: #7F00FF;
+}
 
 /************ Contact Css ************/
 .contact {
