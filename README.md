@@ -1,4 +1,4 @@
-# NewPort
+# New-Web-Portfolio
 Portfolio Web builded with react, with a small node server to handle the sending of emails
 
 # Getting Started with Create React App
