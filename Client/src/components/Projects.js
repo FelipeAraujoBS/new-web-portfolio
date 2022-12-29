@@ -5,9 +5,9 @@ import ProjectCard from "./ProjectCard";
 import MoveT1 from "./../assets/img/MoveT1.jpeg"
 import MoveT2  from "./../assets/img/MoveT2.jpeg"
 import MoveT3 from "./../assets/img/MoveT3.jpeg"
-import Flappy1 from "./../assets/img/Flappy1.jpeg"
-import Flappy2 from "./../assets/img/Flappy2.jpeg"
-import Flappy3 from "./../assets/img/Flappy3.jpeg"
+import interactiveCard1 from "./../assets/img/interactiveCard1.png"
+import interactiveCard2 from "./../assets/img/interactiveCard2.png"
+import interactiveCard3 from "./../assets/img/interactiveCard3.png"
 import Finances1 from "./../assets/img/Finances1.jpeg"
 import Finances2 from "./../assets/img/Finances2.jpeg"
 import Finances3 from "./../assets/img/Finances3.jpeg"
@@ -62,24 +62,24 @@ const Projects = () => {
     ]
     const project3 = [
         {
-            title: "FlappyBird",
-            description: 'Site replicando o famoso jogo "FlappyBird"',
-            imgUrl: Flappy1,
-            linkUrl: "https://github.com/FelipeAraujoBS/FlappyBirdClone/tree/master"
+            title: "InteractiveCard",
+            description: 'Site replicando um cartão virtual completamente interativo',
+            imgUrl: interactiveCard1,
+            linkUrl: "https://interactive-card-challenge-react.netlify.app/"
         },
 
         {
-            title: "FlappyBird",
-            description: 'Criado usando apenas JavaScript(Canvas) e CSS"',
-            imgUrl: Flappy2,
-            linkUrl: "https://github.com/FelipeAraujoBS/FlappyBirdClone/tree/master"
+            title: "InteractiveCard",
+            description: 'Desenvolvido usando React',
+            imgUrl: interactiveCard2,
+            linkUrl: "https://interactive-card-challenge-react.netlify.app/"
         },
 
         {
-            title: "FlappyBird",
-            description: 'Pronto para receber novos recursos com NodeJS"',
-            imgUrl: Flappy3,
-            linkUrl: "https://github.com/FelipeAraujoBS/FlappyBirdClone/tree/master"
+            title: "InteractiveCard",
+            description: 'Pronto para receber novos recursos e dados do Backend"',
+            imgUrl: interactiveCard3,
+            linkUrl: "https://interactive-card-challenge-react.netlify.app/"
         }
     ]
 
@@ -119,7 +119,7 @@ const Projects = () => {
                                     <Nav.Link eventKey='second'>Finances</Nav.Link>
                                 </Nav.Item>
                                 <Nav.Item>
-                                    <Nav.Link eventKey='third'>FlappyBird</Nav.Link>
+                                    <Nav.Link eventKey='third'>Interactivecard</Nav.Link>
                                 </Nav.Item>
                                 <Nav.Item>
                                     <Nav.Link eventKey='fourth'>Expenses</Nav.Link>

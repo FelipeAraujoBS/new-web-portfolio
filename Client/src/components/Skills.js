@@ -39,7 +39,7 @@ const Skills = () => {
                                   <Meter className="item" num="75" skill="JavaScript"/>
                                 </div>
                                 <div className='item'>
-                                  <Meter className="item" num="50" skill="Bootstrap"/>
+                                  <Meter className="item" num="50" skill="Express"/>
                                 </div>
                                 <div className='item'>
                                   <Meter className="item" num="75" skill="NodeJS"/>
