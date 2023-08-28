@@ -1,6 +1,13 @@
 # New-Web-Portfolio
 Portfolio Web builded with react, with a small node server to handle the sending of emails
 
+<img src="./Client/src/assets/img/readme/print1.jpeg">
+<img src="./Client/src/assets/img/readme/print2.jpeg">
+<img src="./Client/src/assets/img/readme/print3.jpeg">
+<img src="./Client/src/assets/img/readme/print4.jpeg">
+<img src="./Client/src/assets/img/readme/print5.jpeg">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
