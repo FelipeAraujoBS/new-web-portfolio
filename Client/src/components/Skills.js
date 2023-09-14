@@ -8,7 +8,6 @@ import colorSharp from "./../assets/img/color-sharp.png"
 const Skills = () => {
     const responsive = {
         superLargeDesktop: {
-          // the naming can be any, depends on you.
           breakpoint: { max: 4000, min: 3000 },
           items: 5
         },
@@ -39,13 +38,16 @@ const Skills = () => {
                                   <Meter className="item" num="75" skill="JavaScript"/>
                                 </div>
                                 <div className='item'>
-                                  <Meter className="item" num="50" skill="Express"/>
+                                  <Meter className="item" num="80" skill="Express"/>
                                 </div>
                                 <div className='item'>
-                                  <Meter className="item" num="75" skill="NodeJS"/>
+                                  <Meter className="item" num="80" skill="NodeJS"/>
                                 </div>
                                 <div className='item'>
-                                  <Meter className="item" num="50" skill="Git"/>
+                                  <Meter className="item" num="75" skill="Git"/>
+                                </div>
+                                <div className='item'>
+                                  <Meter className="item" num="70" skill="PostgreSQL"/>
                                 </div>
                                 <div className='item'>
                                   <Meter className="item" num="50" skill="MongoDB"/>

@@ -52,7 +52,7 @@ export const Banner = () => {
                     <Col xs={12} md={6} xl={7}>
                         <span className='tagline'>Seja bem-vindo ao meu Portfolio</span>
                         <h1>{`Olá, eu sou Felipe`}  <br/> <span >{text}</span></h1>
-                        <p>Tenho 25 anos e sou de Salvador-BA. <br/>
+                        <p>Tenho 26 anos e sou de Salvador-BA. <br/>
                         Sou um Desenvolvedor Web com uma grande paixão por aprender. Domino algumas das principais tecnologias do mercado, e estou ansioso para aprender cada dia mais. </p>
                         <a style={{textDecoration: "none"}} href={fResume} target="_blank" rel="noreferrer"><button> Baixe meu currículo <ArrowRightCircle size={25}/></button></a>
                     </Col>

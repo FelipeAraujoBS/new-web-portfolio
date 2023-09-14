@@ -1,15 +1,6 @@
 let timelineElements = [
-    {
-        id: 1,
-        title: "Algoritmo e Lógica de Programação",
-        institution: "Geek University",
-        description:
-          "Do básico ao avançado de Lógica de Programação com C, Java e Python!",
-        date: "Jan 2021 - Mar 2021",
-        icon: "school",
-      },
       {
-        id: 2,
+        id: 1,
         title: "Web Moderno com JavaScript ",
         institution: "Cod3r",
         description:
@@ -18,7 +9,7 @@ let timelineElements = [
         icon: "school",
       },
       {
-        id: 3,
+        id: 2,
         title: "React - The Complete Guide",
         institution: "Academind",
         description:
@@ -27,7 +18,7 @@ let timelineElements = [
         icon: "school",
       },
       {
-        id: 4,
+        id: 3,
         title: "NodeJS - The Complete Guide",
         institution: "Academind",
         description:
@@ -36,16 +27,7 @@ let timelineElements = [
         icon: "school",
       },
       {
-        id: 5,
-        title: "Engenharia de Software",
-        institution: "Unicesumar",
-        description:
-          "Graduação em Engenharia de Software que  me deixará apto a propor melhorias e inovações no planejamento, construção, gestão e manutenção de processos, serviços e produtos computacionais",
-        date: "2022 - 2026",
-        icon: "school",
-      },
-      {
-        id: 6,
+        id: 4,
         title: "The MERN Fullstack Guide ",
         institution: "Academind",
         description:
@@ -53,6 +35,24 @@ let timelineElements = [
         date: "Mai 2022 - Set 2022",
         icon: "school",
       },
+      {
+        id: 5,
+        title: "Engenharia de Software",
+        institution: "Universidade Catolica de Salvador",
+        description:
+          "Graduação em Engenharia de Software que  me deixará apto a propor melhorias e inovações no planejamento, construção, gestão e manutenção de processos, serviços e produtos computacionais",
+        date: "2023 - 2027",
+        icon: "school",
+      },
+      {
+        id: 6,
+        title: "Desenvolvimento Backend",
+        institution: "Cubos Academy",
+        description:
+          "Formação completa em Desenvolvimento de Software com foco em Backend. Desde Logica de Programação, API Rest, SQL e Git até Soft Skills.",
+        date: "Jun 2023 - Dez 2023",
+        icon: "school",
+      }
     ];
 
 export default timelineElements;

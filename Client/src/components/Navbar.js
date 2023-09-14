@@ -56,7 +56,7 @@ export const Navagation = () => {
                     <span className='navbar-text'>
                         <div className='social-icon'>
                             <a href="https://github.com/FelipeAraujoBS" target="_blank" rel="noreferrer"><img src={navIcon1} alt="Github"/></a>
-                            <a className='dIcon' href="https://www.linkedin.com/in/felipe-araujo-b87386231/" target="_blank" rel="noreferrer"><img className='dImage' src={navIcon2} alt="Linkedin"/></a>
+                            <a className='dIcon' href="https://www.linkedin.com/in/felipe-de-araujo-b87386231/" target="_blank" rel="noreferrer"><img className='dImage' src={navIcon2} alt="Linkedin"/></a>
                             <a href="https://www.instagram.com/jsdev_felipe/" target="_blank" rel="noreferrer"><img src={navIcon3} alt="Instagram"/></a>
                         </div>
                        <HashLink to="#connect">
